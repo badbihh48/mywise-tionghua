@@ -1,4 +1,4 @@
-name: Build to Deploy
+: Build to Deploy
 on:
   release:
     types: [created]
